@@ -1,4 +1,4 @@
-# Kelompok_5_Tugas01_Linear_Regression
+# Kelompok_5_Tugas02_Linear_Regression
 
 Tugas 2 Machine Learning Linear dan Polynomial Regression dengan menggunakan dataset Student Performance
 

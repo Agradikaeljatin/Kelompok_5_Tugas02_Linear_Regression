@@ -1,4 +1,4 @@
-Tugas 2 Machine Learning Data preparation dengan menggunakan dataset 
+Tugas 2 Machine Learning Linear dan Polynomial Regression dengan menggunakan dataset Student Performance
 
 oleh Kelompok 5 dengan anggota:
 
